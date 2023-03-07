@@ -7,6 +7,8 @@
 
 # Communicate using Markdown
 
+## Check out the final [index.md](https://dragonfireshield.github.io/github-skills-markdown/)!
+
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
 <!--
